@@ -11,7 +11,7 @@ body {
   object-fit: cover;
   text-align: center;
   cursor: pointer;
-  transition: width 230ms ease, height 250ms ease;
+  transition: width 20ms ease, height 250ms ease;
   border-radius: 5px;
   background-color: rgb(86, 202, 255);
   /* border-radius: rgb(155, 28, 148); */
